@@ -4,5 +4,5 @@ github: [metadata]
 kramdown:
  input: GFM
  hard_wrap: false
-future: false
-jailed: false
+future: true
+jailed: true
