@@ -17,13 +17,12 @@ The developed tool is currently based on the data of the city of San Francisco. 
 ## Input Data
 The main input data required for the tool to run is a csv with building data of the area of interest. 
 The required attributes in the csv file are:
-- the lat, lon coordinates of each buildings (x_lon, y_lat), 
-- a combined coordinates field in the form of (lat, lon), 
-- the building footprint area (Area_m2), 
-- the number of floors (num_floor), 
-- the building base elevation (ELEV_treat),
-- the residential population of the building (SUM_pop_residential) and
-- the commercial population of the building (SUM_pop_commercial)
+- the lat, lon coordinates of each buildings, 
+- the building footprint area, 
+- the number of floors, 
+- the building base elevation,
+- the residential population of the building and
+- the commercial population of the building
 
 
 ## Algorithmic Process
