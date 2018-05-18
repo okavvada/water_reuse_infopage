@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Optimal Scale for Decentralized Water Reuse
 
 You can use the [editor on GitHub](https://github.com/okavvada/water_reuse_infopage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
