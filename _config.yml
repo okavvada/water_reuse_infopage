@@ -1,8 +1,2 @@
 theme: jekyll-theme-dinky
 title: Webtool Information
-github: [metadata]
-kramdown:
- input: GFM
- hard_wrap: false
-future: true
-jailed: false
